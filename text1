@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title>百度前端学院任务一</title>
+	</head>
+
+	<body>
+		<h1>网站一级标题</h1>
+		<ul>
+			<li>
+				<a href="#">导航链接一</a>
+			</li>
+			<li>
+				<a href="#">导航链接二</a>
+			</li>
+			<li>
+				<a href="#">导航链接三</a>
+			</li>
+			<li>
+				<a href="#">导航链接四</a>
+			</li>
+			<li>
+				<a href="#">导航链接五</a>
+			</li>
+		</ul>
+		<h2>文章一级标题</h2>
+		<h3>文章二级标题</h3>
+		<p>文章作者&nbsp;文章发表时间</p>
+		<p>这是一个很长很长的段落，这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落。
+			<br /> 这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落
+			<br /> 这是一个很长很长的段落这是一个很长很长的段落这是
+			<a href="www.baidu.com">这是一个连接：www.baidu.com</a>
+			一个很长很长的段落
+			<img src="img/jhk-1502163749591.jpeg" style="width: 300px;" /> 这是一个很长很长的段落，这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落。
+			<br /> 这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落
+			<br /> 这是一个很长很长的段落这是一个很长很长的段落这是
+			<a href="www.baidu.com">这是一个连接：www.baidu.com</a>
+			一个很长很长的段落
+			<img src="img/jhk-1502163749591.jpeg" / style="width: 300px;">
+		</p>
+		<div>
+			<h2>另外一篇文章的标题</h2>
+			<p>文章作者&nbsp;文章发表时间</p>
+			<p>这是一个很长很长的段落，这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落。
+				<br /> 这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落
+				<br /> 这是一个很长很长的段落这是一个很长很长的段落这是
+				<a href="www.baidu.com">这是一个连接：www.baidu.com</a>
+				一个很长很长的段落
+				<img src="img/jhk-1502163749591.jpeg" style="width: 300px;" /> 这是一个很长很长的段落，这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落。
+				<br /> 这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落
+				<br /> 这是一个很长很长的段落这是一个很长很长的段落这是
+				<a href="www.baidu.com">这是一个连接：www.baidu.com</a>
+				一个很长很长的段落
+				<img src="img/jhk-1502163749591.jpeg" / style="width: 300px;">
+			</p>
+			<ul>
+				<li><strong>列表项目一</strong></li>
+				<li><strong>列表项目二</strong></li>
+				<li><strong>列表项目三</strong></li>
+			</ul>
+		</div>
+		<h1>图片</h1>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		<div>
+			<p>好看的图片</p>
+			<img src="img/jhk-1502163749591.jpeg" style="width: 400px;" />
+		</div>
+		</div>
+		<h1>最好一篇文章一级标题</h1>
+		<h2>最好一篇文章一级标题</h>
+		<p>文章作者&nbsp;文章发表时间</p>
+		<ol>
+			<li>排名3</li>
+			<li>排名2</li>
+			<li>排名1</li>
+		</ol>
+		<table border="1">
+			<caption>这是一个表格</caption>
+			<tr>
+				<th>表头</th>
+				<th>表头</th>
+				<th>表头</th>
+			</tr>
+			<tr>
+				<td>表格内容一</td>
+				<td>表格内容二</td>
+				<td>
+					<a href="">操作</a></td>
+			</tr>
+			<tr>
+				<td>表格内容一</td>
+				<td>表格内容二</td>
+				<td>
+					<a href="">操作</a></td>
+			</tr><tr>
+				<td>表格内容一</td>
+				<td>表格内容二</td>
+				<td>
+					<a href="">操作</a></td>
+			</tr>
+			</tr>
+			  <td rowspan="1">总计</td>
+			  <td colspan="2">1000</td>
+			</tr>
+		</table>
+		<h3>这是最后一个侧栏，这是标题的侧栏</h3>
+		<p>侧栏注册标题窗口</p>
+		<form>
+			请输入邮箱地址：
+			<input type="text" value="这是一个文本输入" />
+		</form>
+		<form>
+			请输入邮箱地址：
+			<input type="password" value="这是一个文本输入" />
+				请输入邮箱地址：
+			<input type="password" value="这是一个文本输入" />
+		</form>
+		<form>
+		性别：
+			<input type="radio" name="sex" value="male" /> male
+			<input type="radio" name="sex" value="falmale" /> famale
+		</form>
+		<form>
+			<input type="checkbox" name="11" value="运动"/>运动
+			<input type="checkbox" name="11" value="运动"/>艺术
+			<input type="checkbox" name="11" value="运动"/>科学
+		</form>
+		<form name="input" action="#" method="get">
+			usename:<input type="text" value="user" />
+			<input type="submit" value="确认提交" />
+		</form>
+		<form>
+			<select name="下拉框">
+				<option value="北京">北京</option>
+				<option value="北京">杭州</option>
+				<option value="北京" selected="">上海</option>
+				<option value="北京">厦门</option>
+				<option value="北京">哈哈</option>
+			</select>
+		</form>
+		版权所有&copy;
+	</body>
+
+</html>
